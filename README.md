@@ -10,7 +10,7 @@
 </div>
   
   ##
-<div align="center">  
+<div align="inline-block">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRamos02&layout=compact&hide_border=true&title_color=90EE90&text_color=ff91a4&bg_color=0d1117" />
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif">
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
