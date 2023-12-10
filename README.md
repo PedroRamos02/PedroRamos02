@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+chamo+Pedro+Henrique;Bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Pedro+Henrique;Bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
 
 <div align="center"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
